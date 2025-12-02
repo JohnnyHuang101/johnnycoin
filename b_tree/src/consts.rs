@@ -70,3 +70,8 @@ pub struct SnapshotStock {
     pub _padding: [u8; 4], // Align to 8 bytes
     pub quantity: i64,
 }
+
+enum DbMessage {
+    WriteLog(LogEntry),
+    Shutdown,
+}
