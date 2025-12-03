@@ -1,0 +1,14 @@
+C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\deps\serde-996762141d4b7d50.d: C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\build\serde-49ed553e01a407b0\out/private.rs
+
+C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\deps\libserde-996762141d4b7d50.rlib: C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\build\serde-49ed553e01a407b0\out/private.rs
+
+C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\deps\libserde-996762141d4b7d50.rmeta: C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\build\serde-49ed553e01a407b0\out/private.rs
+
+C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\build\serde-49ed553e01a407b0\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\jhsup\\Documents\\Github\\johnnycoin\\b_tree\\target\\debug\\build\\serde-49ed553e01a407b0\\out

@@ -1,0 +1,5 @@
+C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\build\serde_core-9c3ebaa15f0e36fe\build_script_build-9c3ebaa15f0e36fe.d: C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_core-1.0.228\build.rs
+
+C:\Users\jhsup\Documents\Github\johnnycoin\b_tree\target\debug\build\serde_core-9c3ebaa15f0e36fe\build_script_build-9c3ebaa15f0e36fe.exe: C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_core-1.0.228\build.rs
+
+C:\Users\jhsup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_core-1.0.228\build.rs:

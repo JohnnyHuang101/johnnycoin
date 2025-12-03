@@ -112,6 +112,7 @@ async fn execute_trade(
     };
 
     // 2. Update RAM Logic (Instant)
+    let db_sender = app.db_sender.clone();
     let portfolio = app.portfolios.entry(user_id).or_default();
     let cost = payload.amount * 100;
 
@@ -159,7 +160,8 @@ async fn execute_trade(
     // 4. FIRE AND FORGET (Send to Persister)
     // This puts the message in the channel buffer. It returns instantly.
     // The Persister thread will handle the disk write whenever it can.
-    let _ = app.db_sender.try_send(DbMessage::WriteLog(entry));
+    
+    let _ = db_sender.try_send(DbMessage::WriteLog(entry));
 
     Json(serde_json::json!({"status": "Trade Executed", "new_cash": portfolio.cash}))
 }
