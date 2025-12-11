@@ -8,20 +8,6 @@ mod snapshot;
 use tower_http::cors::{CorsLayer, Any}; // Import this
 
 
-let cors = CorsLayer::new()
-    .allow_origin(Any)
-    .allow_methods(Any)
-    .allow_headers(Any);
-
-let app = Router::new()
-    .route("/balance/:username", get(get_balance))
-    .route("/trade", post(execute_trade))
-    .route("/register", post(register_user))
-    .route("/login", post(login_user))
-    .layer(cors) // <--- ADD THIS LAYER
-    .with_state(shared_state);
-
-
 use axum::{
     extract::{Path, State},
     routing::{get, post},
@@ -87,13 +73,23 @@ async fn main() {
         }
     });
 
-    // 5. API ROUTES
+
+
+
+        
+    let cors = CorsLayer::new()
+        .allow_origin(Any)
+        .allow_methods(Any)
+        .allow_headers(Any);
+
     let app = Router::new()
-        .route("/balance/:username", get(get_balance))
+        .route("/balance/{username}", get(get_balance))
         .route("/trade", post(execute_trade))
         .route("/register", post(register_user))
         .route("/login", post(login_user))
+        .layer(cors) // <--- ADD THIS LAYER
         .with_state(shared_state);
+
 
     let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await.unwrap();
     println!("🚀 High-Frequency Engine Ready at http://localhost:3000");

@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Documents\GitHub\johnnycoin\b_tree\target\debug\deps\serde-b4a7113c712f3a6b.d: C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Owner\OneDrive\Documents\GitHub\johnnycoin\b_tree\target\debug\build\serde-291d5c27960f80df\out/private.rs
+
+C:\Users\Owner\OneDrive\Documents\GitHub\johnnycoin\b_tree\target\debug\deps\libserde-b4a7113c712f3a6b.rlib: C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Owner\OneDrive\Documents\GitHub\johnnycoin\b_tree\target\debug\build\serde-291d5c27960f80df\out/private.rs
+
+C:\Users\Owner\OneDrive\Documents\GitHub\johnnycoin\b_tree\target\debug\deps\libserde-b4a7113c712f3a6b.rmeta: C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Owner\OneDrive\Documents\GitHub\johnnycoin\b_tree\target\debug\build\serde-291d5c27960f80df\out/private.rs
+
+C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\Owner\OneDrive\Documents\GitHub\johnnycoin\b_tree\target\debug\build\serde-291d5c27960f80df\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Owner\\OneDrive\\Documents\\GitHub\\johnnycoin\\b_tree\\target\\debug\\build\\serde-291d5c27960f80df\\out
