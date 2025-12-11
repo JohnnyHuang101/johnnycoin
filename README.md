@@ -1,3 +1,6 @@
+<img width="2226" height="1125" alt="image" src="https://github.com/user-attachments/assets/b7d65f28-dc07-4ec9-9320-dc2491690f45" />
+
+
 FTX trading:
 
 A secure HFT platform to trade Johnny and Tofu coins; created my take of a binary b-tree storage engine in Rust+C; coded
